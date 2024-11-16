@@ -1,0 +1,2 @@
+class UICanvasTextItem:
+    pass
