@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycanvas"
+name = "PyEasyCanvas"
 version = "0.1.0"
 description = ""
 authors = ["zimolab <zimolab@aliyun.com>"]
